@@ -1,5 +1,6 @@
 # Mediavest_meeting
-Notater, documenter, osv, til handelsmøtet med Mediavest AS
+EN: Notes, documents, calculations and installers for client meeting (Mediavest AS) regarding ProSpector. NOTE: Everything below is written in norwegian. 
+NO: Notater, documenter, kalkyler og installeringsfiler til handelsmøtet med Mediavest AS, iht ProSpector.
 
 
 ## Notater til møtet: 
